@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JTuple:jar">
+    <output-path>$PROJECT_DIR$/artifacts/JTuple</output-path>
+    <root id="archive" name="JTuple.jar">
+      <element id="module-output" name="JTuple" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"jtuple","l":"BoundTuple"},{"p":"jtuple","l":"Tuple.Builder"},{"p":"jtuple","l":"TupleSchema.Builder"},{"p":"jtuple","l":"Tuple"},{"p":"jtuple","l":"TupleSchema"},{"p":"jtuple","l":"TupleSchemaException"}];updateSearchResults();
